@@ -1,0 +1,45 @@
+
+.container {
+    padding: 0 40px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.form {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightsalmon;
+}
+
+.form__label {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.form__input-search {
+    width: 100%;
+    padding: 20px;
+    color: black;
+    box-sizing: border-box;
+    outline: none;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: lightblue;
+    border: none;
+}
+
+.output {
+    padding: 20px;
+    background-color: lightgray;
+    font-size: 24px;
+}
