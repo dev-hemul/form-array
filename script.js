@@ -8,7 +8,8 @@ let arr = [
 	{id: 3, name: "Iphone", model: "12"},
 	{id: 4, name: "Iphone", model: "13"},
 	{id: 5, name: "Iphone", model: "14"},
-	{id: 6, name: "Iphone", model: "14"}
+	{id: 6, name: "Iphone", model: "15"},
+	{id: 7, name: "Iphone", model: "XS"}
 ]
 
 search.addEventListener("input", () => {
